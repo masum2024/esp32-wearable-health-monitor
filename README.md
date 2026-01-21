@@ -45,3 +45,21 @@ The system is designed for reliability, real-time operation, and low-level hardw
 ## 🧪 System Architecture
 The system continuously reads sensor data, validates measurements, evaluates emergency conditions, and triggers alerts when thresholds are exceeded.
 
+---
+## 📦 Required Libraries
+The following third-party libraries are required to build this project (not included in this repository):
+
+- Adafruit BusIO  
+- Adafruit GFX Library  
+- Adafruit MLX90614  
+- Adafruit MPU6050  
+- Adafruit SSD1306  
+- Adafruit Unified Sensor  
+- ArduinoJson  
+- DFRobot Blood Oxygen Sensor  
+- TinyGPSPlus  
+- TinyGSM  
+- U8g2 for Adafruit GFX  
+
+> Install these libraries using PlatformIO or Arduino Library Manager.
+
