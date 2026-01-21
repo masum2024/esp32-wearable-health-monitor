@@ -66,5 +66,19 @@ The following third-party libraries are required to build this project (not incl
 ## ⚠️ Notes
 - Third-party libraries are not included to respect licensing and repository size.
 - Only custom application logic and integration code are provided.
+---
+## 📸 System Images
 
+### 🔧 Hardware Setup
+![Hardware](docs/images/hardware.jpg)
+
+### 🧩 Software Architecture
+![Architecture](docs/images/software_arch.jpg)
+
+### 📡 Sensors & Modules
+![MAX30102](docs/images/MAX30102.jpg)
+![MLX90614](docs/images/MLX90614.jpg)
+![MPU6050](docs/images/MPU6050.jpg)
+![GPS](docs/images/GPS.jpg)
+![SIM800L](docs/images/SIM800L.jpg)
 
