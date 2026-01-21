@@ -62,4 +62,9 @@ The following third-party libraries are required to build this project (not incl
 - U8g2 for Adafruit GFX  
 
 > Install these libraries using PlatformIO or Arduino Library Manager.
+---
+## ⚠️ Notes
+- Third-party libraries are not included to respect licensing and repository size.
+- Only custom application logic and integration code are provided.
+
 
